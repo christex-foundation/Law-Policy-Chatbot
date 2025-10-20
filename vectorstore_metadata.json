@@ -1,0 +1,8 @@
+{
+  "files_hash": "cade691e3870ac77c0ab4fe5dc6ff9c0",
+  "num_pdfs": 4,
+  "num_urls": 3,
+  "num_chunks": 731,
+  "last_build": "2025-10-07T15:28:14.131903",
+  "vectorstore_path": "SL_Laws_faiss"
+}
